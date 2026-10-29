@@ -35,3 +35,5 @@ Pengujian mencakup seluruh kelompok uji (Katalog 50% murni studio dan Internet H
 | **TOTAL** | **OVERALL SELURUH 590 SAMPEL** | **590** | **75.8%** | **77.1%** | **78.1%** | **77.1%** | **74.5%** | **0.727** |
 
 ---
+
+DEMO : https://huggingface.co/spaces/Fadhlu/packaging-recommendation
